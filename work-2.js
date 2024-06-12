@@ -1,4 +1,4 @@
-const component = () => {
+const component = (age, job) => {
   let obj = {
     name: '이연승',
     age: 30,
