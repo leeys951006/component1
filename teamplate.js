@@ -17,7 +17,6 @@ const container = () => {
   return `
     ${today(12)}
     ${today(13)}
-    ${tagComponent('footer', '푸터부분')}
   `;
 };
 console.log(container());
